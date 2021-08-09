@@ -1,0 +1,1 @@
+cinst whatsapp -y

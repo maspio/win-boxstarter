@@ -1,0 +1,1 @@
+cinst microsoft-windows-terminal

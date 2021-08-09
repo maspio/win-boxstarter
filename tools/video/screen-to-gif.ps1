@@ -1,0 +1,1 @@
+cinst screentogif -y
